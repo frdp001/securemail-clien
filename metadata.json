@@ -1,0 +1,6 @@
+{
+  "name": "Secure Webmail & Auto-Responder Architecture",
+  "description": "Interactive architectural blueprint, directory layout, D1 SQL schema, and functional simulation for a secure Webmail Client and Anti-Loop Auto-Responder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
